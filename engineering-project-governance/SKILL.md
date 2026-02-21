@@ -1,4 +1,4 @@
-﻿---
+---
 name: engineering-project-governance
 description: Enforce an engineering-first workflow for software project work. Use when requests involve building, modifying, scaffolding, refactoring, or extending any code project. Always propose 2-3 technical方案 options first, compare tradeoffs, ask the user to choose and explicitly confirm before implementation, and organize folders/files by language or framework conventions instead of demo-style flat layouts.
 ---

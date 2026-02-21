@@ -1,4 +1,4 @@
-﻿---
+---
 name: skill-trigger-announcer
 description: Announce triggered skills before executing a task. Use when the user asks for transparency about which skills are active, wants a short preface listing triggered skills, or requests that each turn starts with a concise skill-activation summary.
 ---
